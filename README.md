@@ -1,7 +1,28 @@
 # Bike-shairing-demand-prediction
 Supervised Machine Learning.
 
-Developed a regression model for bike sharing demand prediction using machine learning algorithms such as linear regression, decision trees, and random forest. Conducted exploratory data analysis on large datasets to identify significant predictor variables and performed feature selection techniques such as Principal Component Analysis and Recursive Feature Elimination. Utilized hyperparameter tuning techniques to improve the performance of the machine learning model, resulting in increased accuracy and efficiency of bike-sharing operations.
- ### Key Findings : 
-- Optimized revenue management strategies based on predictor variables can increase revenue by up to 30%.
-- Understanding customer behavior patterns and modifying the strategist according to that can inform targeted and improve customer experience by up to 95%.
+* Analyze the data related to bike sharing to identify patterns and trends in demand. 
+* This can help stakeholders to make informed decisions about where to deploy bikes, how many bikes to deploy, and in how much price bike sharing services.
+* Using statistical techniques, machine learning algorithms, and data visualization tools to uncover insights and make predictions about future  emand. Which will affect bike-sharing operations by up to 80%.
+
+
+ ### Libraries used : 
+Numpy<br>
+Pandas<br>
+Matpllotlib<br>
+Seaborn<br>
+sklearn<br>
+xgboost<br>
+warnings<br>
+
+### Machine Learning Models Implimented:
+Linear Regression<br>
+Lasso regression<br>
+Ridge regression<br>
+Elastic Net Regression<br>
+Polynomial Regression<br>
+Decision-tree model<br>
+Random forest regression model<br>
+Gradient Boosting<br>
+
+
